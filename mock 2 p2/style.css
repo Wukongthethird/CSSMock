@@ -1,0 +1,23 @@
+
+.container{
+  height: 600px;
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  
+}
+
+img{
+  width: 600px;
+} 
+
+.text{
+  margin-top: 0;
+  background-color:brown;
+  border-bottom-left-radius: 5%;
+}
+
+hr{
+  border-color:hotpink;
+  ;
+}
